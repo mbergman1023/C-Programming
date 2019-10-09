@@ -1,0 +1,5 @@
+Enter an OUTPUT file  name:
+sbcctestdata/test_20171003_15_28_07_740.txt
+
+Complete
+
