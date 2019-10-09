@@ -1,0 +1,5 @@
+Enter an INPUT file  name:
+sbcctestdata/in_20170918_15_58_46_431.txt
+Enter an OUTPUT file  name:
+sbcctestdata/test_20170918_15_58_46_746.txt
+Complete
