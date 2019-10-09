@@ -1,0 +1,3 @@
+Enter scores one at a time, then press <ENTER>, Press <ENTER> when complete.
+
+0	0.000000	0.000000	0.000000	0.000000	
